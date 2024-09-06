@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend development at a tech firm in the insurance industry, focusing on React, Java, custom dependency management, enforcing TypeScript, and modernizing JavaScript by replacing lodash and ramda.<br>👯 I’m looking to collaborate on public npm libraries by actively opening and resolving issues. So far, all issues I’ve raised have been resolved, and I hope to keep that streak going!<br>🤝 I’m looking for help with transitioning into React Native development. Though I have a strong React background, the differences between React and React Native are more than just the “native” part—there’s a lot more to learn.<br>🌱 I’m currently learning the Azure SDK and migrating deprecated libraries to updated ones for Azure integration in our projects.<br>💬 Ask me about React, ES6, or TypeScript—I’ve been having a lot of fun with modern JavaScript lately!<br>⚡ Fun fact: Sometimes, while you’re deep into debugging and searching for that elusive error, it turns out the problem might be in the library you’re using. It’s like looking for a needle in a haystack, only to find out the haystack is faulty!
+🔭 I’m currently working on frontend development at a tech firm in the insurance industry, focusing on React, Java, custom dependency management, enforcing TypeScript, and modernizing JavaScript by replacing lodash and ramda.
+
+👯 I’m looking to collaborate on public npm libraries by actively opening and resolving issues. So far, all issues I’ve raised have been resolved, and I hope to keep that streak going!
+
+🤝 I’m looking for help with transitioning into React Native development. Though I have a strong React background, the differences between React and React Native are more than just the “native” part—there’s a lot more to learn.
+
+🌱 I’m currently learning the Azure SDK and migrating deprecated libraries to updated ones for Azure integration in our projects.
+
+💬 Ask me about React, ES6, or TypeScript—I’ve been having a lot of fun with modern JavaScript lately!
+
+⚡ Fun fact: Sometimes, while you’re deep into debugging and searching for that elusive error, it turns out the problem might be in the library you’re using. It’s like looking for a needle in a haystack, only to find out the haystack is faulty!
 
 
 ## 🌐 Socials:
