@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend development at a tech firm in the insurance industry, focusing on React, Java, custom dependency management, enforcing TypeScript, and modernizing JavaScript by replacing lodash and ramda.
+🔭 I’m currently working on frontend development at a tech firm in the insurance industry, focusing on React, Java, custom dependency management and enforcing TypeScript.
 
 👯 I’m looking to collaborate on public npm libraries by actively opening and resolving issues. So far, all issues I’ve raised have been resolved, and I hope to keep that streak going!
 
