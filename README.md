@@ -6,7 +6,7 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"
   height="50" /></a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
-  src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50" /></a>
+  src="https://github.com/user-attachments/assets/b0d20eb6-d0e7-4004-a4c3-da5f145b4d8a" alt="kotlin" width="50" height="50" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
   alt="javascript" width="50" height="50" /></a>
@@ -31,7 +31,7 @@
   src="https://github.com/user-attachments/assets/55303be5-2ee8-461f-816c-5ec3a1e417b2" alt="nodejs"
   width="50" height="50" /></a>
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img
-  src="https://github.com/user-attachments/assets/54046848-7088-4852-9806-411d86444835" alt="ionic" width="50" height="50" /></a>
+  src="https://github.com/user-attachments/assets/cf1a0bbb-cc2b-4423-89d9-5a5ab72278fa" alt="ionic" width="50" height="50" /></a>
 
 <h3>Tools</h3>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img
@@ -73,7 +73,7 @@
   src="https://github.com/user-attachments/assets/1ac4cffd-9f1e-47e7-8e7c-d936288cb6fa"
   alt="mongodb" width="50" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-  src="https://github.com/user-attachments/assets/6dc31399-741d-484e-bf0a-f1f78fba8427" alt="mysql"
+  src="https://github.com/user-attachments/assets/caa6e723-d847-4ce6-b891-7b247729f115" alt="mysql"
   width="50" height="50" /></a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis"
