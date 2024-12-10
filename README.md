@@ -2,17 +2,17 @@
 <h3 align="center">A passionate full-stack developer from Germany</h3>
 
 <h3>Languages</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener noreferrer"> <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="javascript" width="50" height="50" /></a>
+<a href="https://www.typescriptlang.org/" rel="noopener noreferrer"> <img
+  src="https://github.com/user-attachments/assets/d25c83aa-9231-480d-a364-0c1e33c574e2"
+  alt="typescript" width="50" height="50" /></a>
 <a href="https://www.java.com" rel="noopener noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"
   height="50" /></a>
 <a href="https://kotlinlang.org" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/b0d20eb6-d0e7-4004-a4c3-da5f145b4d8a" alt="kotlin" width="50" height="50" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript" width="50" height="50" /></a>
-<a href="https://www.typescriptlang.org/" rel="noopener noreferrer"> <img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  alt="typescript" width="50" height="50" /></a>
 <a href="https://www.python.org" rel="noopener noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
   width="50" height="50" /></a>
@@ -38,14 +38,16 @@
   src="https://github.com/user-attachments/assets/5f22cc92-3878-43f6-ad1a-5c47f129a9be" alt="intellij" width="50" height="50" /></a>
 <a href="https://www.warp.dev/" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/0bdd28ce-599f-4b86-8857-80c86a907b4a" alt="warp" width="50" height="50" /></a>
+<a href="https://supabase.com/" rel="noopener noreferrer"> <img
+  src="https://github.com/user-attachments/assets/293abab5-4054-45d6-bc89-a33b4d17f887" alt="supabase" width="50" height="50" /></a>
+<a href="https://www.contentful.com/" rel="noopener noreferrer"> <img
+  src="https://github.com/user-attachments/assets/b6ef4094-74dd-49b7-b9de-399a11180f1e" alt="contentful" width="50" height="50" /></a>
 <a href="https://www.npmjs.com/" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/e330ee38-4187-439c-b7b6-cb53939d17ae" alt="npm" width="50" height="50" /></a>
 <a href="https://gradle.com/" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/ceb393f1-787e-43be-8033-f76353a4005c" alt="gradle" width="50" height="50" /></a>
 <a href="https://www.openapis.org/" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/53505c15-22df-4514-867f-65efa216ff1b" alt="openapi" width="50" height="50" /></a>
-<a href="https://www.contentful.com/" rel="noopener noreferrer"> <img
-  src="https://github.com/user-attachments/assets/b6ef4094-74dd-49b7-b9de-399a11180f1e" alt="contentful" width="50" height="50" /></a>
 
 <h3>Testing</h3>
 <a href="https://jestjs.io" rel="noopener noreferrer"> <img
@@ -69,17 +71,17 @@
   height="50" /></a>
 
 <h3>Databases</h3>
+<a href="https://www.postgresql.org/" rel="noopener noreferrer"> <img
+  src="https://github.com/user-attachments/assets/7d482a28-6fb2-4698-8b3a-b5062621843d" alt="postgresql"
+  width="50" height="50" /></a>
 <a href="https://www.mongodb.com/" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/1ac4cffd-9f1e-47e7-8e7c-d936288cb6fa"
   alt="mongodb" width="50" height="50" /></a>
-<a href="https://www.mysql.com/" rel="noopener noreferrer"> <img
-  src="https://github.com/user-attachments/assets/caa6e723-d847-4ce6-b891-7b247729f115" alt="mysql"
+<a href="https://hibernate.org/" rel="noopener noreferrer"> <img
+  src="https://github.com/user-attachments/assets/3423e389-63d3-4596-aab1-8f327e191be1" alt="hibernate"
   width="50" height="50" /></a>
 <a href="https://redis.io" rel="noopener noreferrer"> <img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis"
-  width="50" height="50" /></a>
-<a href="https://hibernate.org/" rel="noopener noreferrer"> <img
-  src="https://github.com/user-attachments/assets/3423e389-63d3-4596-aab1-8f327e191be1" alt="hibernate"
   width="50" height="50" /></a>
 
 <h3>DevOps</h3>
