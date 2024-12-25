@@ -42,12 +42,14 @@
   src="https://github.com/user-attachments/assets/293abab5-4054-45d6-bc89-a33b4d17f887" alt="supabase" width="50" height="50" /></a>
 <a href="https://www.contentful.com/" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/b6ef4094-74dd-49b7-b9de-399a11180f1e" alt="contentful" width="50" height="50" /></a>
+<a href="https://graphql.org/" rel="noopener noreferrer"> <img
+  src="https://github.com/user-attachments/assets/497fa3ee-d1d0-41d9-bfed-8e1deec26355" alt="graphql" width="50" height="50" /></a>
+<a href="https://www.openapis.org/" rel="noopener noreferrer"> <img
+  src="https://github.com/user-attachments/assets/53505c15-22df-4514-867f-65efa216ff1b" alt="openapi" width="50" height="50" /></a>
 <a href="https://www.npmjs.com/" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/e330ee38-4187-439c-b7b6-cb53939d17ae" alt="npm" width="50" height="50" /></a>
 <a href="https://gradle.com/" rel="noopener noreferrer"> <img
   src="https://github.com/user-attachments/assets/ceb393f1-787e-43be-8033-f76353a4005c" alt="gradle" width="50" height="50" /></a>
-<a href="https://www.openapis.org/" rel="noopener noreferrer"> <img
-  src="https://github.com/user-attachments/assets/53505c15-22df-4514-867f-65efa216ff1b" alt="openapi" width="50" height="50" /></a>
 
 <h3>Testing</h3>
 <a href="https://jestjs.io" rel="noopener noreferrer"> <img
