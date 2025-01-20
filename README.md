@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Roman</h1>
-<h3 align="center">A passionate full-stack developer from Germany</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=fd5b38&text=Hi%20👋🏼,%20I'm%20Roman&desc=A%20passionate%20full-stack%20developer%20from%20Germany&descAlignY=54&fontAlignY=34&fontColor=ffffff&fontSize=60"/>
 
 <h3>Languages</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noopener noreferrer"> <img
