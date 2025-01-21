@@ -23,16 +23,14 @@
 
 ---
 
-<h3>Support
-<p><a href="https://ko-fi.com/jumatov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jumatov" /></a><p><a href="https://paypal.me/Jumatov/10"> <img align="left" src="https://github.com/user-attachments/assets/51021e40-3af5-4e9c-a9c7-95795206c6c6" height="50" width="210" alt="jumatov" /></a></p><br/><br/><br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sm3sher&theme=dark&hide_border=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=sm3sher&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sm3sher&icon=10&color=12)](https://visitcount.itsvg.in)
-<a href="https://stackoverflow.com/users/8845480" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8845480" height="24" width="32" /></a>
+<a href="https://stackoverflow.com/users/8845480" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="24" width="32" /></a>
+<a href="https://ko-fi.com/jumatov" target="blank"><img align="top" src="https://github.com/user-attachments/assets/0e06bd58-99c9-40b4-82a2-2557c4b4529b" alt="ko-fi" height="auto" width="32" /></a>
+<a href="https://paypal.me/Jumatov/5" target="blank"><img align="top" src="https://github.com/user-attachments/assets/01cbc748-67e7-40f5-8d88-0e25b3acd630" alt="ko-fi" height="24" width="auto" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=fd5b38&section=footer&fontColor=ffffff"/>
