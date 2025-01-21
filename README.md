@@ -1,45 +1,30 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=fd5b38&text=Hi%20👋🏼,%20I'm%20Roman&desc=A%20passionate%20full-stack%20developer%20from%20Germany&descAlignY=54&fontAlignY=34&fontColor=ffffff&fontSize=60"/>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin,python"/>
-</p>
+### Languages
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin,python"/>
 
-<h3 align="center">Frameworks</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,spring,nodejs,capacitor"/>
-</p>
+### Frameworks
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,spring,nodejs,capacitor"/>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,supabase,contentful,graphql,swagger,npm,gradle"/>
-</p>
+### Tools
+<img src="https://go-skill-icons.vercel.app/api/icons?i=idea,supabase,contentful,graphql,swagger,npm,gradle"/>
 
-<h3 align="center">Testing</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,playwright"/>
-</p>
+### Testing
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,playwright"/>
 
-<h3 align="center">Styling</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,mui,sass"/>
-</p>
+### Styling
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,mui,sass"/>
 
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis,hibernate"/>
-</p>
+### Databases
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb,redis,hibernate"/>
 
-<h3 align="center">DevOps</h3>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,datadog,docker,kubernetes,jenkins"/>
-</p>
+### DevOps
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,datadog,docker,kubernetes,jenkins"/>
 
 ---
 
-<h3>Support</h3>
-<p><a href="https://ko-fi.com/jumatov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jumatov" /></a></p>
-<p><a href="https://paypal.me/Jumatov/10"> <img align="left" src="https://github.com/user-attachments/assets/51021e40-3af5-4e9c-a9c7-95795206c6c6" height="50" width="210" alt="jumatov" /></a></p><br/><br/><br/>
+<h3>Support
+<p><a href="https://ko-fi.com/jumatov"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jumatov" /></a><p><a href="https://paypal.me/Jumatov/10"> <img align="left" src="https://github.com/user-attachments/assets/51021e40-3af5-4e9c-a9c7-95795206c6c6" height="50" width="210" alt="jumatov" /></a></p><br/><br/><br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sm3sher&theme=dark&hide_border=true)
 
