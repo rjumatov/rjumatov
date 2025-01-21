@@ -7,7 +7,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,spring,nodejs,capacitor"/>
 
 ### Tools
-<img src="https://go-skill-icons.vercel.app/api/icons?i=idea,supabase,contentful,graphql,swagger,npm,gradle"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=idea,warp,supabase,contentful,graphql,swagger,npm,gradle"/>
 
 ### Testing
 <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,playwright"/>
