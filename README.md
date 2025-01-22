@@ -23,7 +23,7 @@
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sm3sher&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=sm3sher&theme=dark&hide_border=true&border_radius=24&card_width=550background=242938)
 
 ![](https://github-profile-trophy.vercel.app/?username=sm3sher&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
