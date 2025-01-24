@@ -23,14 +23,20 @@
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com?user=sm3sher&theme=dark&hide_border=true&border_radius=24&card_width=550background=242938)
-
-![](https://github-profile-trophy.vercel.app/?username=sm3sher&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=sm3sher&theme=dark&hide_border=true&border_radius=24&card_width=550"/>
+  </a>
+  <a href="https://github-profile-trophy.vercel.app">
+    <img src="https://github-profile-trophy.vercel.app/?username=sm3sher&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sm3sher&icon=10&color=12)](https://visitcount.itsvg.in)
-<a href="https://stackoverflow.com/users/8845480" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="24" width="32" /></a>
-<a href="https://ko-fi.com/jumatov" target="blank"><img align="top" src="https://github.com/user-attachments/assets/0e06bd58-99c9-40b4-82a2-2557c4b4529b" alt="ko-fi" height="auto" width="32" /></a>
-<a href="https://paypal.me/Jumatov/5" target="blank"><img align="top" src="https://github.com/user-attachments/assets/01cbc748-67e7-40f5-8d88-0e25b3acd630" alt="ko-fi" height="24" width="auto" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=fd5b38&section=footer&fontColor=ffffff"/>
+<img src="https://komarev.com/ghpvc/?username=sm3sher&label=Profile%20views&color=fd5b38&style=flat" alt="Profile views"/>
+<a href="https://stackoverflow.com/users/8845480" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="24" width="32" /></a>
+<a href="https://ko-fi.com/jumatov" target="blank"><img src="https://github.com/user-attachments/assets/0e06bd58-99c9-40b4-82a2-2557c4b4529b" alt="ko-fi" height="auto" width="30" /></a>
+<a href="https://paypal.me/Jumatov/5" target="blank"><img src="https://github.com/user-attachments/assets/01cbc748-67e7-40f5-8d88-0e25b3acd630" alt="paypal" height="24" width="auto" /></a>  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=fd5b38&section=footer"/>
