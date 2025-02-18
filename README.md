@@ -10,7 +10,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,warp,supabase,contentful,graphql,npm,gradle"/>
 
 ### Testing
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,playwright"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vitest,playwright"/>
 
 ### Styling
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,mui,sass"/>
