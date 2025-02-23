@@ -4,13 +4,13 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin"/>
 
 ### Frameworks
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,spring,nodejs,capacitor"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=next,react,vite,nodejs,spring"/>
 
 ### Tools
 <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,warp,supabase,contentful,graphql,npm,gradle"/>
 
 ### Testing
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vitest,playwright"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vitest,playwright,junit"/>
 
 ### Styling
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,mui,sass"/>
@@ -37,6 +37,5 @@
 <img src="https://komarev.com/ghpvc/?username=sm3sher&label=Profile%20views&color=FF5B17&style=flat" alt="Profile views"/>
 <a href="https://stackoverflow.com/users/8845480" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="24" width="32" /></a>
 <a href="https://ko-fi.com/jumatov" target="blank"><img src="https://github.com/user-attachments/assets/0e06bd58-99c9-40b4-82a2-2557c4b4529b" alt="ko-fi" height="auto" width="30" /></a>
-<a href="https://paypal.me/Jumatov/5" target="blank"><img src="https://github.com/user-attachments/assets/01cbc748-67e7-40f5-8d88-0e25b3acd630" alt="paypal" height="24" width="auto" /></a>  
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=fd5b38&section=footer"/>
