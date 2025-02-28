@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FF5B17&text=Hi%20👋🏼,%20I'm%20Roman&desc=A%20passionate%20full-stack%20developer%20from%20Germany&descAlignY=54&fontAlignY=34&fontColor=ffffff&fontSize=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=FE5100&text=Hi%20👋🏼,%20I'm%20Roman&desc=A%20passionate%20full-stack%20developer%20from%20Germany&descAlignY=54&fontAlignY=34&fontColor=ffffff&fontSize=60"/>
 
 ### Languages
 <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,java,kotlin"/>
@@ -34,8 +34,8 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=sm3sher&label=Profile%20views&color=FF5B17&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sm3sher&label=Profile%20views&color=FE5100&style=flat" alt="Profile views"/>
 <a href="https://stackoverflow.com/users/8845480" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="24" width="32" /></a>
 <a href="https://ko-fi.com/jumatov" target="blank"><img src="https://github.com/user-attachments/assets/0e06bd58-99c9-40b4-82a2-2557c4b4529b" alt="ko-fi" height="auto" width="30" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=fd5b38&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=FE5100&section=footer"/>
