@@ -25,17 +25,17 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=sm3sher&theme=dark&hide_border=true&border_radius=24&card_width=550"/>
+    <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=rjumatov&theme=dark&hide_border=true&border_radius=24&card_width=550"/>
   </a>
   <br/><br/>
   <a href="https://github-profile-trophy.vercel.app">
-    <img src="https://github-profile-trophy.vercel.app/?username=sm3sher&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=rjumatov&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
   </a>
 </div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=sm3sher&label=Profile%20views&color=FE5100&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=rjumatov&label=Profile%20views&color=FE5100&style=flat" alt="Profile views"/>
 <a href='https://ko-fi.com/G2G6KOLKJ' target='_blank'>
   <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
